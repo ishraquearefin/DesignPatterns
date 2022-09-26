@@ -1,6 +1,6 @@
 Observer Pattern :
 
-Observer Pattern is used when a change ocuured in object and that needs to be notified to all other objects about the change.In observer pattern there will be observer classes and a publisher class. Basically, publisher class will notify all the observer class if any changes occurs in publisher class.
+Observer Pattern is used when a change ocuured in object and that needs to be notified by all other objects.In observer pattern there will be observer classes and a publisher class. Basically, publisher class will notify all the observer class if any changes occurs in publisher class.
 It can be done in 2 ways. One of them is push style and another one is pull style.
 
 Push Style:
